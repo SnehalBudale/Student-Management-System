@@ -113,4 +113,4 @@ The system ensures all inputs are valid:
 
 ---
 
-## Enjoy managing your students with ease! 🚀
+
